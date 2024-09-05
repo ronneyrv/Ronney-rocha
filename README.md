@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Ronney and I'm in a career transition. With my skills and the new knowledge acquired in programming, I am excited to develop innovative solutions.
+My name is Ronney, I'm a developer in construction, looking for new skills and knowledge in programming. I'm excited to develop innovative solutions.
 <p>
  - technologies:<p>
  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,php,nodejs,react,mysql,git,github" height:"50"/><p><br>
